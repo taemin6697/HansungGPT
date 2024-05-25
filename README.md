@@ -2,7 +2,7 @@
   <img src="https://github.com/taemin6697/taemin6697/assets/96530685/46a29020-e640-4e74-9d77-f12e466fc706" width="40%" height="50%">
 </a>
 
-# Hansung Bllossom | [Demo]() | [Developer 김태민](https://taemin6697.github.io/) | [Github](https://github.com/taemin6697) |
+# Hansung Bllossom | [Demo]() | [Developer 김태민](https://taemin6697.github.io/) | [Github](https://github.com/taemin6697) | [Data](https://huggingface.co/datasets/kfkas/hansung_data_v2)
 
 ```bash
 한성대학교 QA 기반으로 학습시킨Hansung-Bllossom-8B 를 출시합니다.
