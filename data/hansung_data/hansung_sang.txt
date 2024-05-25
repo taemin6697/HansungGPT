@@ -1,0 +1,169 @@
+[include(틀:상위 문서, top1=한성대학교)]
+[[분류:한성대학교]]
+[include(틀:한성대학교)]
+
+[목차]
+== 교육이념 ==
+||<tablealign=center><tablewidth=100%><tablebordercolor=#00467f><tablebgcolor=#ffffff,#191919> {{{#!wiki style="margin: -5px -10px; padding: 5px 0px; background-color: #0A4DA1;"
+[[한성대학교|[[파일:한성대학교 이미지마크 화이트.svg|height=40]][br]{{{+1 {{{#fff '''한성대학교 교육이념'''}}}}}}]]}}} ||
+||<bgcolor=#0A4DA1> {{{+2 {{{#fff '''진리'''}}}}}}{{{-2 {{{#fff '''眞理'''}}}}}} {{{+2 {{{#fff '''·'''}}}}}} {{{+2 {{{#fff '''지선'''}}}}}}{{{-2 {{{#fff '''至善'''}}}}}} ||
+한성대학교는 '''진리(眞理)ㆍ지선(至善)''' 이라는 교육이념을 바탕으로 창의적 전문인, 포용적 사회인, 열린 세계인을 양성한다.
+
+== 인재상 ==
+||<tablealign=center><tablewidth=100%><tablebordercolor=#00467f><tablebgcolor=#ffffff,#191919> {{{#!wiki style="margin: -5px -10px; padding: 5px 0px; background-color: #0A4DA1;"
+[[한성대학교|[[파일:한성대학교 이미지마크 화이트.svg|height=40]][br]{{{+1 {{{#fff '''한성대학교 인재상'''}}}}}}]]}}} ||
+|| {{{#0A4DA1,#fff '''창의적 전문인, 포용적 사회인, 열린 세계인'''}}} ||
+
+== 상징물 ==
+||<tablealign=center><tablewidth=100%><tablebordercolor=#00467f><tablebgcolor=#ffffff,#191919> {{{#!wiki style="margin: -5px -10px; padding: 5px 0px; background-color: #0A4DA1;"
+[[한성대학교|[[파일:한성대학교 이미지마크 화이트.svg|height=40]][br]{{{+1 {{{#fff '''거북'''}}}}}}]]}}} ||
+||{{{#!wiki style="margin:-10px; margin-top:-5px; margin-bottom:-6px"
+[[파일:한성대거북상.jpg|width=100%]]}}} ||
+||[[거북]]은 예로부터 십장생의 하나로 일컬어져 왔으며 기린, 봉황, 용과 더불어 4대 명물로 지칭되기도 할만큼 신령스러운 동물로 간주되어 왔다. 한성대학교는 거북이처럼 슬기롭고, 짧은 기간 내에 성장하여 유구한 발전을 추구해 나가고 있다. 거북이의 지혜와 영특성은 '진리(眞理)와 통하고, 구전되어 오는 대로 인간을 구원해 준다는 그 성품은 '선(善)'을 나타내는 것이다. 한성대학교의 교훈인 진리(眞理),지선(至善)과 거북이는 이러한 상징적 관계에 있다. ||
+탐구관 앞에 돌거북상이 위치하고 있다.
+
+
+||<tablealign=center><tablewidth=100%><tablebordercolor=#00467f><tablebgcolor=#ffffff,#191919> {{{#!wiki style="margin: -5px -10px; padding: 5px 0px; background-color: #0A4DA1;"
+[[한성대학교|[[파일:한성대학교 이미지마크 화이트.svg|height=40]][br]{{{+1 {{{#fff '''삼학송'''}}}}}} {{{-2 {{{#fff '''三學松'''}}}}}}]]}}} ||
+||{{{#!wiki style="margin:-10px; margin-top:-5px; margin-bottom:-6px"
+[[파일:삼학송.jpg|width=100%]]}}} ||
+||삼학송은 우뚝 솟은 [[소나무]] 세 그루로, 1920년부터 이곳에서 야생하던 나무이다. 한성대학교 설립자 우촌 [[김의형]] 박사가 손수 그 나무를 오늘날의 거목으로 키웠으며 1973년 5월 대학 정문 옆에 나란히 우뚝 선 세 그루 소나무에 삼학송이란 이름을 붙이고, 한성인에게 젊은 학도의 기개를 함양하는 상징목으로 삼기로 하였다. 삼학송은 병자호란 때 나라를 위해 순절한 홍익한, 윤집, 오달제 삼학사의 절개를 뜻하고 있다. 그 절개를 받들어 삼학사의 이름을 따 삼학송이라고 칭하고 본교의 상징 나무로 삼게 되었다. ||
+미래관 좌측에 위치해 있었으나, 상상관 공사로 현재는 탐구관 앞 돌거북상 옆으로 옮겨졌다. 삼학송은 아니지만 정문 로터리 중앙에도 소나무 세 그루가 심어져 있다.
+
+== 교표 ==
+||<tablealign=center><tablewidth=100%><tablebordercolor=#00467f><tablebgcolor=#ffffff,#191919> {{{#!wiki style="margin: -5px -10px; padding: 5px 0px; background-color: #0A4DA1;"
+[[한성대학교|[[파일:한성대학교 이미지마크 화이트.svg|height=40]][br]{{{+1 {{{#fff '''한성대학교 교표'''}}}}}}]]}}} ||
+|| {{{#!wiki style="margin:-10px; margin-top:-5px; margin-bottom:-6px"
+ [[파일:한성대학교 엠블럼.svg|width=200]]}}} ||
+||2007년 개교 35주년을 기념하여 제작되었다. 역동적인 파란색으로 도약하는 한성인을 상징한다. 한성대의 H자 이니셜과 화살표를 주된 이미지로 채책해 미래와 세계를 향해 도전하는 프론티어 정신과 다양한 문화,학문을 열린 사고로 받아들이는 한성인의 지성을 상징한다. 또한 휴머니즘(Humanism), 정직(Honesty), 명예(Honor)를 통해 정보화,세계화 사회의 최고 인재(Highest Human)를 키워내겠다는 의지를 담았다. ||
+===# 과거 교표 #===
+||<tablealign=center><tablewidth=100%><tablebordercolor=#00467f><tablebgcolor=#ffffff,#191919> {{{#!wiki style="margin: -5px -10px; padding: 5px 0px; background-color: #0A4DA1;"
+[[한성대학교|[[파일:한성대학교 이미지마크 화이트.svg|height=40]][br]{{{+1 {{{#fff '''한성대학교 교표'''}}}}}}]][br]{{{#fff '''1972년~1978년'''}}}}}} ||
+|| [[파일:한성여대로고.png|width=200]] ||
+||한성여자대학 시절 교표로 영문 교명인 Hansung Women's College가 쓰여 있다. ||
+
+||<tablealign=center><tablewidth=100%><tablebordercolor=#00467f><tablebgcolor=#ffffff,#191919> {{{#!wiki style="margin: -5px -10px; padding: 5px 0px; background-color: #0A4DA1;"
+[[한성대학교|[[파일:한성대학교 이미지마크 화이트.svg|height=40]][br]{{{+1 {{{#fff '''한성대학교 교표'''}}}}}}]][br]{{{#fff '''1978년~1984년'''}}}}}} ||
+|| [[파일:한성대구로고1.png|width=200]] ||
+||남녀공학 한성대학으로 전환되면서 바뀐 교표. 변경된 교명인 Hansung College가 쓰여 있다. ||
+
+||<tablealign=center><tablewidth=100%><tablebordercolor=#00467f><tablebgcolor=#ffffff,#191919> {{{#!wiki style="margin: -5px -10px; padding: 5px 0px; background-color: #0A4DA1;"
+[[한성대학교|[[파일:한성대학교 이미지마크 화이트.svg|height=40]][br]{{{+1 {{{#fff '''한성대학교 교표'''}}}}}}]][br]{{{#fff '''1984년~1991년'''}}}}}} ||
+|| [[파일:한성대구로고2.png|width=200]] ||
+||거북 문양이 첫 등장한 교표. 3개의 육각형은 바깥쪽부터 각각 대학, 교수, 학생을 의미한다. 영문 교명이 Hansung University로 변경되었다. ||
+
+||<tablealign=center><tablewidth=100%><tablebordercolor=#00467f><tablebgcolor=#ffffff,#191919> {{{#!wiki style="margin: -5px -10px; padding: 5px 0px; background-color: #0A4DA1;"
+[[한성대학교|[[파일:한성대학교 이미지마크 화이트.svg|height=40]][br]{{{+1 {{{#fff '''한성대학교 교표'''}}}}}}]][br]{{{#fff '''1991년~2007년'''}}}}}} ||
+|| [[파일:한성대학교 엠블럼(~2007).svg|width=200]] ||
+||거북을 형상화한 육각형의 문양으로 세 개의 육각도형 중 가장자리에 위치한 것은 대학의 울타리를 상징하고, 가운데의 것은 거북의 문양으로 교수를 상징하며, 가장 안쪽의 육각형은 다이아몬드를 나타내며 학생을 의미한다. 밑을 떠받치고 있는 곡선은 진리탐구와 협동, 진리의 보고인 책을 나타낸다.[*로고 [[파일:한성대학교 로고_육각형.svg|height=120]]] ||
+
+== 이미지 마크 ==
+||<tablealign=center><tablewidth=100%><tablebordercolor=#00467f><tablebgcolor=#ffffff,#191919> {{{#!wiki style="margin: -5px -10px; padding: 5px 0px; background-color: #0A4DA1;"
+[[한성대학교|[[파일:한성대학교 이미지마크 화이트.svg|height=40]][br]{{{+1 {{{#fff '''한성대학교 이미지 마크'''}}}}}}]]}}} ||
+|| [[파일:한성대학교 로고.svg|width=200]] ||
+||2007년 개교 35주년을 기념해 제정한 교표와 같은 이미지로 제작된 이미지 마크로, 교표의 디자인을 단순화하면서도 학교가 지향하는 세련되고 미래 지향적인 이미지를 부각하였다. 형태적으로는 역동적인 3D형태를 채용하고 푸른색을 기본색으로 적용, 현대적인 느낌을 부여했다. ||
+
+===# 과거 이미지 마크 #===
+||<tablealign=center><tablewidth=100%><tablebordercolor=#00467f><tablebgcolor=#ffffff,#191919> {{{#!wiki style="margin: -5px -10px; padding: 5px 0px; background-color: #0A4DA1;"
+[[한성대학교|[[파일:한성대학교 이미지마크 화이트.svg|height=40]][br]{{{+1 {{{#fff '''한성대학교 이미지 마크'''}}}}}}]][br]{{{#fff '''?~2007년'''}}}}}} ||
+|| [[파일:한성대학교 이미지마크_U.svg|width=200]] ||
+||대학의 이니셜인 U자를 기본으로 반복 활용하였으며 두 개의 점은 교수·학생 또는 남녀를 상징하며 마크 전체의 분위기는 상호 보완 작용·협동을 나타내는 형으로 국제화를 향해 끊임없이 창조하려는 대학의 정신을 형상화하였다. ||
+
+||<tablealign=center><tablewidth=100%><tablebordercolor=#00467f><tablebgcolor=#ffffff,#191919> {{{#!wiki style="margin: -5px -10px; padding: 5px 0px; background-color: #0A4DA1;"
+[[한성대학교|[[파일:한성대학교 이미지마크 화이트.svg|height=40]][br]{{{+1 {{{#fff '''한성대학교 이미지 마크'''}}}}}}]][br]{{{#fff '''1991년~2007년'''}}}}}} ||
+|| [[파일:한성대학교 이미지마크_1991.svg|width=200]] ||
+||대학을 상징하는 학사모를 단순화한 마름모형을 바탕으로 지구의 하이라이트 부분을 조형요소로 접목시켜 세계화를 향해 웅비하는 모습을 미지화 한 것이다. 3개의 선형은 대학의 과거, 현재, 미래의 점진적인 발전상을 시각화한 것이다. (1991년 산업디자인 이상원 교수 제작) ||
+
+== 시그니처 ==
+||<tablealign=center><tablewidth=100%><tablebordercolor=#00467f><tablebgcolor=#ffffff,#191919> {{{#!wiki style="margin: -5px -10px; padding: 5px 0px; background-color: #0A4DA1;"
+[[한성대학교|[[파일:한성대학교 이미지마크 화이트.svg|height=40]][br]{{{+1 {{{#fff '''한성대학교 시그니처'''}}}}}}]]}}} ||
+|| [[파일:한성대학교 시그니처.svg|width=200]] ||
+
+== 슬로건 ==
+||<tablealign=center><tablewidth=100%><tablebordercolor=#00467f><tablebgcolor=#ffffff,#191919> {{{#!wiki style="margin: -5px -10px; padding: 5px 0px; background-color: #0A4DA1;"
+[[한성대학교|[[파일:한성대학교 이미지마크 화이트.svg|height=40]][br]{{{+1 {{{#fff '''한성대학교 슬로건'''}}}}}}]]}}} ||
+||<bgcolor=#fff> {{{+1 {{{#0A4DA1 '''한성이 만든 오늘, 세상이 만날 내일'''}}}}}} ||
+||<bgcolor=#fff> {{{#0A4DA1 '''미래를 이끌어갈 창의융합교육의 산실'''}}} ||
+||<bgcolor=#fff> {{{#0A4DA1 '''오고 싶은 한성대, 머물고 싶은 한성대'''}}} ||
+위 3개의 슬로건을 주로 사용하고 있다.
+
+>'''구 슬로건 모음'''
+> * 연구하는 대학, 푸른 미래의 대학[* 1990년대에 사용했던 슬로건]
+> * 다르다 그래서 멋지다
+> * 서울의 C.E.N.T.E.R. 한성대학교
+> * 상상력 인큐베이터 한성대학교
+> * 세상 모든 상상력이 모이고 창의융합인재로 뻗어나가는 상상역{{{-2 (驛)}}} 한성대학교[* 개교 50주년 기념 슬로건]
+> * 상상력 50년이 혁신 100년으로[* 개교 50주년 기념 슬로건]
+
+== 마스코트 ==
+||<tablealign=center><tablewidth=100%><tablebordercolor=#00467f><tablebgcolor=#ffffff,#191919> {{{#!wiki style="margin: -5px -10px; padding: 5px 0px; background-color: #0A4DA1;"
+[[한성대학교|[[파일:한성대학교 이미지마크 화이트.svg|height=40]][br]{{{+1 {{{#fff '''한성대학교 마스코트'''}}}}}}]][br]{{{#fff '''상상부기'''}}}}}} ||
+|| {{{#!wiki style="margin:-10px; margin-top:-5px; margin-bottom:-6px"
+[[파일:한성대 상상부기.png|width=100%]]}}} ||
+||한성대 상징동물 거북이에서 모티브를 얻은 캐릭터[* 상상력+거북이]로 공모전을 통해 2020년부터 사용되고 있다. 인형, 우산, 그립톡, 메모지, 공책, 파일, 에코백 등 기념품과 굿즈로 만들어져 학생들의 많은 사랑을 받고 있다. 2021년부터 제공되는 신입생 입학키트에도 상상부기 굿즈가 들어있다. ||
+
+||<tablealign=center><tablewidth=100%><tablebordercolor=#00467f><tablebgcolor=#ffffff,#191919> {{{#!wiki style="margin: -5px -10px; padding: 5px 0px; background-color: #0A4DA1;"
+[[한성대학교|[[파일:한성대학교 이미지마크 화이트.svg|height=40]][br]{{{+1 {{{#fff '''한성대학교 마스코트'''}}}}}}]][br]{{{#fff '''상상부기 프렌즈'''}}}}}} ||
+|| {{{#!wiki style="margin:-10px; margin-top:-5px; margin-bottom:-6px"
+[[파일:상상부기 프렌즈.png|width=100%]]}}} ||
+||상상부기 제작 이후 2021년 이어 제작된 상상부기의 친구들로 상찌, 한성냥이, 꼬꼬와 꾸꾸가 있다. 한성냥이는 학교에 살았던 고양이, 상찌는 상추+다람쥐, 꼬꼬와 꾸꾸는 캠퍼스에 살고 있는 닭이 모티브다. ||
+
+2021년 개교49주년을 기념하여 카카오톡 상상부기 프렌즈 이모티콘이 무료 배포되었고 2022년에도 개교50주년을 기념하여 무료 배포되었다.
+
+현재 상상부기 굿즈를 판매중이다. 인형, 문구류, 가방, 신발, 생활용품 등으로 우촌관 미디어홍보팀이나 상상관 1층 자판기에서 구매할 수 있으며 온라인 구매는 재학생은 종합정보시스템, 외부인은 학교 홈페이지에서 가능하다.
+
+== 교가 ==
+||<tablealign=center><tablewidth=100%><tablebordercolor=#00467f><tablebgcolor=#ffffff,#191919> {{{#!wiki style="margin: -5px -10px; padding: 5px 0px; background-color: #0A4DA1;"
+[[한성대학교|[[파일:한성대학교 이미지마크 화이트.svg|height=40]][br]{{{+1 {{{#fff '''한성대학교 교가'''}}}}}}]]}}} ||
+|| {{{#!wiki style="margin:-10px; margin-top:-5px; margin-bottom:-6px"
+[[파일:hsusong.png|width=100%]]}}} ||
+||작사 정연길[br]작곡 이영조[br][br][1절][br]북악에 마주선 낙산언덕에[br]슬기의 샘물이 용솟음친다[br]우람한 내일을 다져가리라[br]청운의 배움터 한성대학교[br][br][2절][br]삼학송 푸른뜻 담은터전에[br]보람의 강물이 넘쳐흐른다[br]영광된 내일을 다짐하여라[br]성아의 높은탑 한성대학교[br][br][후렴][br]드높은 이상을 가슴에품고[br]진리와 지선을 기르고닦아[br]겨례의 빛되리 희망이되리 ||
+교가는 [[https://www.hansung.ac.kr/hansung/1852/subview.do|이곳]]에서 들어볼 수 있다.
+
+== [[FM(자기소개)|FM]] ==
+2017년부터 트랙제가 도입되며 기존의 학과들이 모두 사라졌기 때문에 학과별 FM은 사실상 거의 사장되었다. 물론 간혹 학과FM을 볼 수 있긴 한데 트랙별로 FM이 있지는 않고 그 트랙의 전신인 학과의 FM을 사용한다. 학교 FM이나 단과대별 FM은 새터나 응원전 등에서 간간이 사용하기도 한다.
+||<-2><tablealign=center><tablewidth=100%><tablebordercolor=#00467f><tablebgcolor=#ffffff,#191919> {{{#!wiki style="margin: -5px -10px; padding: 5px 0px; background-color: #0A4DA1;"
+[[한성대학교|[[파일:한성대학교 엠블럼 화이트.svg|height=40]][br]{{{+1 {{{#fff '''한성대학교 FM'''}}}}}}]]}}} ||
+||<-2> {{{+3 {{{#0A4DA1,#049EDB '''불패한성'''}}}}}} {{{-1 {{{#0A4DA1,#049EDB '''不敗漢城'''}}}}}} ||
+||<-2> {{{#!folding 학과별 FM [ 펼치기 · 접기 ]
+||<tablewidth=90%><tablealign=center><rowbgcolor=#626466><tablebordercolor=#626466><width=50%> {{{#FFFFFF '''인문대학'''}}} ||<width=50%> {{{#FFFFFF '''지성인문'''}}} ||
+|| 영어영문학부[* 현 영미문화, 영미언어 트랙] || 진보영문 ||
+|| 한국어문학부[* 현 문학문화콘텐츠, 한국어교육 트랙] || 자유국문 ||
+|| 역사문화학부[* 현 역사문화, 역사콘텐츠 트랙] || 열정역사 ||
+|| 지식정보학부[* 현 도서관, 디지털인문 트랙] || 자주지정 ||
+
+||<tablewidth=90%><tablealign=center><rowbgcolor=#626466><tablebordercolor=#626466><width=50%> {{{#FFFFFF '''예술대학'''}}} ||<width=50%> {{{#FFFFFF '''창조예술'''}}} ||
+|| 회화과[* 현 동양화, 서양화 전공] || 최강회화 ||
+|| 무용학과[* 현 한국무용, 현대무용, 발레 전공] || ||
+
+||<tablewidth=90%><tablealign=center><rowbgcolor=#626466><tablebordercolor=#626466><width=50%> {{{#FFFFFF '''인문예술대학'''}}} ||<width=50%> {{{#FFFFFF '''순수인예'''}}} ||
+
+||<tablewidth=90%><tablealign=center><rowbgcolor=#626466><tablebordercolor=#626466><width=50%> {{{#FFFFFF '''사회과학대학'''}}} ||<width=50%> {{{#FFFFFF '''청년사대'''}}} ||
+|| 무역학과[* 현 국제무역, 글로벌비즈니스 트랙] || 선봉무역 ||
+|| 경제학과[* 현 기업경제, 경제금융투자 트랙] || 민중민주 경제 ||
+|| 행정학과[* 현 공공행정, 법정책 트랙] || 지성 야성 민주 행정 ||
+|| 부동산학과[* 현 부동산, 스마트도시 트랙] || 개척부동산 ||
+|| 경영학부[* 현 기업경영, 벤처경영, 회계재무 트랙] || 혁신경영 ||
+
+||<tablewidth=90%><tablealign=center><rowbgcolor=#626466><tablebordercolor=#626466><width=50%> {{{#FFFFFF '''디자인대학'''}}} ||<width=50%> {{{#FFFFFF '''감성디대'''}}} ||
+|| 글로벌패션산업학부 || ||
+|| ICT디자인학부 || ||
+|| 뷰티디자인매니지먼트학과 || ||
+
+||<tablewidth=90%><tablealign=center><rowbgcolor=#626466><tablebordercolor=#626466><width=50%> {{{#FFFFFF '''공과대학'''}}} ||<width=50%> {{{#FFFFFF '''강철공대'''}}} ||
+|| 컴퓨터공학과[* 현 컴퓨터공학부] || 비상컴공 ||
+|| 멀티미디어공학과[* 현 컴퓨터공학부] || 최강멀티 ||
+|| 정보시스템공학과[* 현 IT융합공학부] || 전진 정보시스템 ||
+|| 산업경영공학과[* 현 스마트경영공학부] || 실천산공 ||
+|| 기계시스템공학과[* 현 기계트랙] || 개척기계 ||
+|| 전자정보공학과[* 현 전자트랙] || 열정전자 ||
+
+||<tablewidth=90%><tablealign=center><rowbgcolor=#626466><tablebordercolor=#626466><width=50%> {{{#FFFFFF '''창의융합대학'''}}} ||<width=50%> {{{#FFFFFF '''무한창융'''}}} ||
+|| 상상력인재학부 || 자유상상 ||
+|| 문학문화콘텐츠학과 || 창조문콘 ||
+|| AI응용학과 || ||
+|| 융합보안학과 || ||
+|| 미래모빌리티학과 || ||}}} ||
+
+[include(틀:문서 가져옴, title=한성대학교, version=1101, paragraph=3)]
+[[분류:한성대학교]]
