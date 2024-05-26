@@ -29,7 +29,7 @@ pip install torch transformers==4.40.0 accelerate
 import transformers
 import torch
 
-model_id = "MLP-KTLim/llama-3-Korean-Bllossom-8B"
+model_id = "kfkasHansung-Bllossom-8B"
 
 pipeline = transformers.pipeline(
     "text-generation",
@@ -80,7 +80,7 @@ import os
 import torch
 from transformers import AutoTokenizer, AutoModelForCausalLM
 
-model_id = 'MLP-KTLim/llama-3-Korean-Bllossom-8B'
+model_id = 'kfkasHansung-Bllossom-8B'
 
 tokenizer = AutoTokenizer.from_pretrained(model_id)
 model = AutoModelForCausalLM.from_pretrained(
