@@ -4,6 +4,8 @@
 
 # Hansung Bllossom | [Demo](https://huggingface.co/spaces/kfkas/Hansung-Bllossom) | [Developer 김태민](https://taemin6697.github.io/) | [Github](https://github.com/taemin6697) | [Data](https://huggingface.co/datasets/kfkas/hansung_data_v2)
 
+## 현재 백본이 [beomi/Llama-3-Open-Ko-8B-Instruct-preview](https://huggingface.co/beomi/Llama-3-Open-Ko-8B-Instruct-preview)로 변경되었습니다 
+
 ```bash
 한성대학교 QA 기반으로 학습시킨Hansung-Bllossom-8B 를 출시합니다.
 이는 MLP-KTLim/llama-3-Korean-Bllossom-8B 을 기반으로 학습되었습니다.
