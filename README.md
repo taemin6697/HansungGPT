@@ -123,35 +123,7 @@ outputs = model.generate(
 )
 
 print(tokenizer.decode(outputs[0][input_ids.shape[-1]:], skip_special_tokens=True))
-```
 
-
-
-## Citation
-**Language Model**
-```text
-@misc{bllossom,
-  author = {ChangSu Choi, Yongbin Jeong, Seoyoon Park, InHo Won, HyeonSeok Lim, SangMin Kim, Yejee Kang, Chanhyuk Yoon, Jaewan Park, Yiseul Lee, HyeJin Lee, Younggyun Hahm, Hansaem Kim, KyungTae Lim},
-  title = {Optimizing Language Augmentation for Multilingual Large Language Models: A Case Study on Korean},
-  year = {2024},
-  journal = {LREC-COLING 2024},
-  paperLink = {\url{https://arxiv.org/pdf/2403.10882}},
- },
-}
-```
-
-**Vision-Language Model**
-```text
-@misc{bllossom-V,
-  author = {Dongjae Shin, Hyunseok Lim, Inho Won, Changsu Choi, Minjun Kim, Seungwoo Song, Hangyeol Yoo, Sangmin Kim, Kyungtae Lim},
-  title = {X-LLaVA: Optimizing Bilingual Large Vision-Language Alignment},
-  year = {2024},
-  publisher = {GitHub},
-  journal = {NAACL 2024 findings},
-  paperLink = {\url{https://arxiv.org/pdf/2403.11399}},
- },
-}
-```
 
 ## Contact
  - 김태민(Taemin Kim), Intelligent System. `taemin6697@gmail.com`
