@@ -123,7 +123,7 @@ outputs = model.generate(
 )
 
 print(tokenizer.decode(outputs[0][input_ids.shape[-1]:], skip_special_tokens=True))
-
+```
 
 ## Contact
  - 김태민(Taemin Kim), Intelligent System. `taemin6697@gmail.com`
