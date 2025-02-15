@@ -127,6 +127,3 @@ print(tokenizer.decode(outputs[0][input_ids.shape[-1]:], skip_special_tokens=Tru
 
 ## Contact
  - 김태민(Taemin Kim), Intelligent System. `taemin6697@gmail.com`
-
-## Contributor
- - 김태민(Taemin Kim), Intelligent System. `taemin6697@gmail.com`
